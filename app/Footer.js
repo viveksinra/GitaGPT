@@ -10,23 +10,25 @@ function Footer() {
       Download our app:
     </p>
     <div className="flex w-full justify-center md:justify-start pb-24 lg:pb-0 fade-in">
-    <Image
-        
+      {/* <a href='https://play.google.com/store/apps/details?id=com.softechinfra.android.qualifier'>
+      <Image
         src={appStImg}
         alt="Krishna Image"
         width={150}
         height={150}
-        className="h-12 pr-12 transform hover:scale-125 duration-300 ease-in-out"
+        className="h-12 pr-12 transform hover:scale-125 duration-300 ease-in-out cursor-pointer"
       />
+      </a> */}
+      <a href='https://play.google.com/store/apps/details?id=com.softechinfra.android.qualifier'>
     <Image
-        
+        href={"https://play.google.com/store/apps/details?id=com.softechinfra.android.qualifier"}
         src={playStImg}
         alt="Krishna Image"
         width={150}
         height={150}
-        className="h-12 pr-12 transform hover:scale-125 duration-300 ease-in-out"
+        className="h-12 pr-12 transform hover:scale-125 duration-300 ease-in-out cursor-pointer"
       />
-      
+      </a>
     
     </div>
   </div>
