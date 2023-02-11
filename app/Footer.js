@@ -33,7 +33,7 @@ function Footer() {
     </div>
   </div>
     <div className="w-full pt-16 pb-6 text-sm text-center md:text-left fade-in">
-          <a className="text-gray-500 no-underline hover:no-underline" href="#">&copy; Made with Love 2020</a>
+          <a className="text-gray-500 no-underline hover:no-underline" href="#">&copy; Made with Love 2023</a>
           - Vivek 
           <a className="text-gray-500 no-underline hover:no-underline" href="https://twitter.com/viveksinra">vivek.org.in</a>
         </div></>
