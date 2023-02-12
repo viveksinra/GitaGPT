@@ -1,27 +1,30 @@
-# Gita GPT - Talk to Krishna with Bhagavad Gita AI
+# Converse with Krishna through Bhagavad Gita AI with Gita GPT
 
-
-
-[Gita GPT](https://viveksinra.com) is a state-of-the-art AI-powered chatbot that uses the power of artificial intelligence to bring the teachings of Lord Krishna to your everyday life. With GitaGPT, you can have a conversation with Lord Krishna in a conversational manner, receiving personalised answers to your questions and gaining divine guidance in your life.
+![image](https://user-images.githubusercontent.com/37905082/218301440-ca832ef1-c8e9-4c28-91ca-248590ee526c.png)
 
 ## Features
 
-- Conversational interaction with Lord Krishna using ChatGPT
-- Personalised content tailored to your specific needs
-- Pool of knowledge and wisdom from the Bhagavad Gita
-- Easy-to-understand answers to your questions about faith, life, and well-being
+- Engage in a conversation with Lord Krishna through advanced AI technology
+- Receive customized content that meets your unique needs and requirements
+- Draw upon a vast knowledge base of wisdom from the Bhagavad Gita
+- Obtain simple and easy-to-comprehend answers to your inquiries regarding spirituality, life, and well-being.
 
-## How it works
-
-ChatGita uses advanced AI technology to provide you with answers to your questions based on the teachings of the Bhagavad Gita. Simply ask a question related to your faith or life and receive a response in a conversational format. The conversations are recorded in a fixed context to provide you with a better understanding of the teachings of Lord Krishna.
-
-## Why Gita GPT?
-
-Gita GPT offers an unparalleled experience for those seeking to connect with the divine and gain a deeper understanding of the teachings of the Bhagavad Gita. With its user-friendly interface, personalised content, and advanced AI technology, GitaGPT provides you with the spiritual guidance and comfort you need in your life.
+[Gita GPT](https://viveksinra.com) is a cutting-edge chatbot that leverages the capabilities of AI to infuse the wisdom of Lord Krishna into your daily routine. By using Gita GPT, you can engage in a natural dialogue with Lord Krishna, receive tailored responses to your queries, and access divine insights to enhance your life.
 
 ## Try ChatGita for yourself
 
-Bhagavad Gita AI has already become viral, with thousands of people using it to answer their everyday queries. Test its accuracy for yourself and see if it can help you gain a deeper understanding of the teachings of Lord Krishna.
+The Bhagavad Gita AI has gained immense popularity, with thousands of users relying on it to address their daily inquiries. Experience its precision for yourself and discover if it can assist you in comprehending the teachings of Lord Krishna to a greater extent
+
+
+## How it works
+
+Gita GPT leverages state-of-the-art AI technology to deliver responses to your inquiries based on the principles of the Bhagavad Gita. Simply pose a question regarding your spirituality or life, and receive a conversational reply. The interactions are captured in a defined context to deepen your comprehension of Lord Krishna's teachings
+
+## Why Gita GPT?
+
+Gita GPT presents a unique opportunity for those who yearn for a deeper connection with the divine and a clearer grasp of the teachings of the Bhagavad Gita. With its intuitive design, customized content, and cutting-edge AI technology, Gita GPT delivers the spiritual support and comfort you seek in your life.
+
+
 
 ## Contributing
 
