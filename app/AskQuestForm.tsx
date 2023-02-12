@@ -5,6 +5,7 @@ import React, {useState} from 'react'
 function AskQuestForm() {
     const [question, setQuestion] = useState("")
   return (
+    <>
     <form className="bg-gray-900 opacity-75 w-full shadow-lg rounded-lg px-8 pt-6 pb-8 mb-4">
     <div className="mb-4">
     {/* for="emailaddress" */}
@@ -36,6 +37,9 @@ function AskQuestForm() {
  
     </div>
   </form>
+   <p className="leading-normal text-base md:text-sm mb-8 text-center md:text-left">
+   Disclaimer: Exercise caution and do not rely solely on this experimental AI program for making choices.
+   </p></>
   )
 }
 

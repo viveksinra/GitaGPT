@@ -18,7 +18,6 @@ function QuestAnsPage() {
       <AnswerPage />
       <AskQuestForm />
    
-      <Footer />
       </div>
   )
 }

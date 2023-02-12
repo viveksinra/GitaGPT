@@ -20,11 +20,11 @@ const fetchTodos = async (fullQuest:string) => {
 
   // E.g. `/dashboard?page=2&order=asc`
   const fullQuest = searchParams.get('fullQuest') || "";
-    let [mySol, setMySol] = useState("")
+    let [mySol, setMySol] = useState("Getting Answer From Gita ...")
   fetchTodos(fullQuest).then(data => setMySol(data))
   return (
     <>
-    <div className= "gap-x-6 -mt-24 mb-12">
+    <div className= "gap-x-6 md:-mt-32 mb-12">
     <div className="flex  gap-x-6  items-center place-content-end">
 
     <div>
