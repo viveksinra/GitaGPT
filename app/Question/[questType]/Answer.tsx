@@ -28,7 +28,8 @@ const fetchTodos = async (fullQuest:string) => {
     <div className="flex  gap-x-6  items-center place-content-end">
 
     <div>
-      <h3 className="bg-gradient-to-r from-purple-800 to-green-500 hover:from-pink-500 hover:to-green-500 text-white font-bold py-2 px-4 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out">Arjun Ask :</h3>
+    <span className="bg-clip-text ext-transparent bg-gradient-to-r from-green-400 via-pink-500 to-purple-500">Arjun Ask :</span>
+
       <p className="text-sm font-semibold leading-6 text-indigo-600">Your Question</p>
     </div>
     <Image 
@@ -50,7 +51,8 @@ const fetchTodos = async (fullQuest:string) => {
       src="https://res.cloudinary.com/motoinvoice/image/upload/v1676196579/impImage/krishna_rtpka6.jpg" 
       alt="" />
       <div>
-        <h3 className="bg-gradient-to-r hover:from-purple-800 hover:to-green-500 to-pink-500 from-green-500 text-white font-bold py-2 px-4 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out">Krishna Response</h3>
+      <span className="bg-clip-text ext-transparent bg-gradient-to-r from-green-400 via-pink-500 to-purple-500">Krishna Response</span>
+    {/* <h3 className="bg-gradient-to-r hover:from-purple-800 hover:to-green-500 to-pink-500 from-green-500 text-white font-bold py-2 px-4 rounded focus:ring transform transition hover:scale-105 duration-300 ease-in-out">Krishna Response</h3> */}
         <p className="text-sm font-semibold leading-6 text-indigo-600">Krishna / Gita</p>
       </div>
     </div>
