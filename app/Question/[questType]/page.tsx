@@ -4,6 +4,7 @@ import Footer from '../../Footer'
 import { useRouter,useSearchParams  } from 'next/navigation'
 import axios from 'axios';
 import AnswerPage from './Answer';
+import AskQuestForm from '../../AskQuestForm';
 
 
 function QuestAnsPage() {
@@ -15,6 +16,8 @@ function QuestAnsPage() {
   return (
     <div >
       <AnswerPage />
+      <AskQuestForm />
+   
       <Footer />
       </div>
   )

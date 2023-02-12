@@ -24,7 +24,7 @@ const fetchTodos = async (fullQuest:string) => {
   fetchTodos(fullQuest).then(data => setMySol(data))
   return (
     <>
-    <div className="flex items-center gap-x-6">
+    <div className="flex items-center gap-x-6 mt-20 mb-10">
 
     <div>
       <h3 className="text-base font-semibold leading-7 tracking-tight bg-black text-blue-500">{fullQuest}</h3>
@@ -37,7 +37,7 @@ const fetchTodos = async (fullQuest:string) => {
     src="https://i.pinimg.com/originals/3d/56/a8/3d56a8408fbe4ab6129c24953b28be4e.jpg" 
     alt="" />
   </div>
-      <div className="flex items-center gap-x-6">
+      <div className="flex items-center gap-x-6 mb-32">
       <Image 
       width={100}
       height={100}
