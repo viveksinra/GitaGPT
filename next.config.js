@@ -5,7 +5,7 @@ module.exports = {
     appDir:true,
   },
   images: {
-    domains: ['i.pinimg.com']
+    domains: ['res.cloudinary.com']
 },
   async headers() {
     return [
