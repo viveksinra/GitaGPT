@@ -1,27 +1,67 @@
-# Next.js + Tailwind CSS Example
+# Gita GPT - Talk to Krishna with Bhagavad Gita AI
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
-## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+[Gita GPT](https://viveksinra.com) is a state-of-the-art AI-powered chatbot that uses the power of artificial intelligence to bring the teachings of Lord Krishna to your everyday life. With GitaGPT, you can have a conversation with Lord Krishna in a conversational manner, receiving personalised answers to your questions and gaining divine guidance in your life.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+## Features
 
-## How to use
+- Conversational interaction with Lord Krishna using ChatGPT
+- Personalised content tailored to your specific needs
+- Pool of knowledge and wisdom from the Bhagavad Gita
+- Easy-to-understand answers to your questions about faith, life, and well-being
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+## How it works
+
+ChatGita uses advanced AI technology to provide you with answers to your questions based on the teachings of the Bhagavad Gita. Simply ask a question related to your faith or life and receive a response in a conversational format. The conversations are recorded in a fixed context to provide you with a better understanding of the teachings of Lord Krishna.
+
+## Why Gita GPT?
+
+Gita GPT offers an unparalleled experience for those seeking to connect with the divine and gain a deeper understanding of the teachings of the Bhagavad Gita. With its user-friendly interface, personalised content, and advanced AI technology, GitaGPT provides you with the spiritual guidance and comfort you need in your life.
+
+## Try ChatGita for yourself
+
+Bhagavad Gita AI has already become viral, with thousands of people using it to answer their everyday queries. Test its accuracy for yourself and see if it can help you gain a deeper understanding of the teachings of Lord Krishna.
+
+## Contributing
+
+We welcome contributions to Gita GPT and encourage you to submit pull requests with any improvements you make. Whether you're fixing a bug or adding a new feature, your contributions will help make GitaGPT the best it can be.
+
+**Here are just a few ways you can get involved:**
+
+- 🎨 Are you a designer? Help us create beautiful and user-friendly interfaces for our websites and apps.
+- 💻 Are you a developer? Help us build innovative and cutting-edge software applications.
+- 📝 Are you a writer? Contribute articles, blog posts, or even create video content that can help spread the teachings of Sanatana Dharma.
+- 📱 Are you a social media expert? Help us reach out to more people and spread the word about our work.
+- 🔍 Are you an SEO expert? Help us make sure our content is easily accessible and ranks high on search engines.
+
+So what are you waiting for?
+
+🚀 Let's make a difference together! 🙌
+
+[Join our Slack to connect with like-minded individuals and get involved.]
+### Getting Started
+
+First, run the development server:
 
 ```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
 ```
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+## License
+
+Bhagavad Gita AI is open source and licensed under the MIT License.
