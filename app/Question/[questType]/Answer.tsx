@@ -24,7 +24,7 @@ const fetchTodos = async (fullQuest:string) => {
   fetchTodos(fullQuest).then(data => setMySol(data))
   return (
     <>
-    <div className= "gap-x-6 mt-12 mb-12">
+    <div className= "gap-x-6 -mt-24 mb-12">
     <div className="flex  gap-x-6  items-center place-content-end">
 
     <div>
