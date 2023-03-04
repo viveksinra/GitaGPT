@@ -4,6 +4,7 @@ import { useRouter,useSearchParams  } from 'next/navigation'
 import Image from 'next/image';
 
 const fetchTodos = async (fullQuest:string) => {
+  console.log("getting called")
   const res = await fetch(`/api/question/${fullQuest}`);
   const answer = await res.json();
   const solution = await answer.fullResponse.response
@@ -20,8 +21,9 @@ const fetchTodos = async (fullQuest:string) => {
 
   // E.g. `/dashboard?page=2&order=asc`
   const fullQuest = searchParams.get('fullQuest') || "";
+  console.log("full page is getting called")
     let [mySol, setMySol] = useState("Getting Answer From Gita ...")
-  fetchTodos(fullQuest).then(data => setMySol(data))
+  fetchTodos(fullQuest).then(data => {setMySol(data), console.log("this fetch is calling")}).catch(Err => console.log(Err))
   return (
     <>
     <div className= "gap-x-6 md:-mt-32 mb-12">
